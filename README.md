@@ -416,6 +416,7 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
  - [**Loanscan**](https://loanscan.io/): financial information and analytics for debt issued on the Ethereum blockchain
 
 ## Other Stablecoin Projects
+ - [bitUSD](https://coinmarketcap.com/currencies/bitusd/)
  - [USDC](https://coinmarketcap.com/currencies/usd-coin/): USD Backed
  - [TrueUSD](https://www.trusttoken.com/trueusd/): USD Backed
  - [Gemini Dollar](https://gemini.com/dollar/): USD Backed
